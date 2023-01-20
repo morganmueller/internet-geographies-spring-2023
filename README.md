@@ -1,6 +1,6 @@
 # Internet Geographies
 
-### **Eugene Lang College of Liberal Arts <br> Code as Liberal Art, Spring 2022**
+### **Eugene Lang College of Liberal Arts <br> Code as Liberal Art, Spring 2023**
 
 [**Link to the course listing**<br> **Category**: 4 Credits, Elective<br>
 <br>](https://courses.newschool.edu/courses/LCOD2123/)
@@ -26,8 +26,8 @@
 | Instructor Github | [@morganmueller](https://github.com/morganmueller) |
 | Class Day | Monday, Wednesday   |
 | Class Time      | 4:00pm - 5:40pm |
-| Classroom      | Room **1102**, 6 East 16th Street, Manhattan |
-| Class Dates     | Jan 24 - May 16 |
+| Classroom      | Room **1001**, 6 East 16th Street, Manhattan |
+| Class Dates     | Jan 23 - May 15 |
 
 ## OFFICE HOURS
 
@@ -35,7 +35,7 @@ Office hours are by appointment. Please see the office hour offerings.
 
 | Info | Details |
 | :---  | ---   |
-| Office Hours    | [6:30pm-8:30pm, Mon & Wed or By Appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJRSGcySnFMdVZEfGRlZmF1bHR8ZjM0ZjBjYmZkNDVlZDJjZTlhZTdkMTNjYmNjN2RmZTQ) |
+| Office Hours    | [6:00pm-8:00pm, Mon & Wed or By Appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJRSGcySnFMdVZEfGRlZmF1bHR8ZjM0ZjBjYmZkNDVlZDJjZTlhZTdkMTNjYmNjN2RmZTQ) |
 | Location | **In Person TBD**, via Zoom or Google Hangouts |
 
 * NOTE: If you can't make those times, please send me an email and we can chat at another time or via video conference.
@@ -88,7 +88,7 @@ And it will probably remain so for the rest of the course. I expect things to ch
 
 ## COURSE HYBRIDITY
 
-This semester is strange! We will be spending the first few weeks online and then the rest of the semester in person. As such, I want to give some clarity around expectations and leniencies for hybrid learning. It is expected for situations to arise where some of you will need mental health days, get sick, are exposed to a covid positive person or even get covid (I hope not but you never know). When this happens and you are unable to attend class that is completely fine! Your health and wellness are more important than a single class. That being said, I won't be leading any hybrid classes, i.e having a zoom session run for some students to be remotely learning while in person class is going on. If you miss class for any reason I am more than happy to schedule extended office hours to go over course material from either of that week's classes.
+It is expected for situations to arise where some of you will need mental health days, get sick, are exposed to a covid positive person or even get covid (I hope not but you never know). When this happens and you are unable to attend class that is completely fine! Your health and wellness are more important than a single class. That being said, I won't be leading any hybrid classes, i.e having a zoom session run for some students to be remotely learning while in person class is going on. If you miss class for any reason I am more than happy to schedule extended office hours to go over course material from either of that week's classes.
 
 ## LEARNING OUTCOMES
 
@@ -112,23 +112,23 @@ Prior to each week I will upload slides, code examples, resources and more to th
 
 | GO TO  |  DATE  | SECTION | DISCUSSION LEAD |
 | :----         |  ----  | ---- | ---- |
-| [WEEK 01](weeks/week_01.md) | Jan 24 & 26 | A Tangible Internet | None |
-| [WEEK 02](weeks/week_02.md) | Jan 31 & Feb 02 | A Tangible Internet | None |
-| [WEEK 03](weeks/week_03.md) | Feb 07 & 09 | A Tangible Internet | <s>Earl, Aidan</s> |
-| [WEEK 04](weeks/week_04.md) | Feb 14 & 16 | A Tangible Internet |  Milo, Trevor, Earl |
-| [WEEK 05](weeks/week_05.md) | <s>Feb 21</s> & 23 | A Tangible Internet | Trey, Ani, Lilah, Matthew |
-| [WEEK 06](weeks/week_06.md) | Feb 28 & Mar 02 | A Tangible Internet | Carson, Daya D, Aidan |
-| [WEEK 07](weeks/week_07.md) | Mar 07 & 09 | Supply Chains  | Maya Luna, Carson, Isabella |
-| [WEEK 08](weeks/week_08.md) | Mar 14 & 16 | **SPRING BREAK**  | None| 
-| [WEEK 09](weeks/week_09.md) | Mar 21 & 23 | Supply Chains  | Umi, Reese, Daya D |
-| [WEEK 10](weeks/week_10.md) | Mar 28 & 30 | Supply Chains  | Trevor, Matthew |
-| [WEEK 11](weeks/week_11.md) | APR 04 & 06 | Mining & Extraction | Aidan, Earl, Milo |
-| [WEEK 12](weeks/week_12.md) | APR 11 & 13 | Mining & Extraction  | Alex, Deni |
-| [WEEK 13](weeks/week_13.md) | APR 18 & 20 | Mining & Extraction | Maya Luna, Alex |
-| [WEEK 14](weeks/week_14.md) | APR 25 & 27 | Waste & Disposal | Reese, Trey|
-| [WEEK 15](weeks/week_15.md) | MAY 02 & 04 | Waste & Disposal | Isabella, Ani, Deni |
-| [WEEK 16](weeks/week_16.md) | May 09 & 11 | Waste & Disposal  | Umi, Lilah|
-| [FINAL PROJECTS/PAPERS DUE](weeks/week_17.md) | May 16  | **FINAL PROJECTS/PAPERS DUE** |  None |
+| [WEEK 01](weeks/week_01.md) | Jan 23 & 25 | A Tangible Internet | None |
+| [WEEK 02](weeks/week_02.md) | Jan 30 & Feb 01 | A Tangible Internet | None |
+| [WEEK 03](weeks/week_03.md) | Feb 06 & 08 | A Tangible Internet | TBD |
+| [WEEK 04](weeks/week_04.md) | Feb 13 & 15 | A Tangible Internet |  TBD |
+| [WEEK 05](weeks/week_05.md) | <s>Feb 20</s> & 22 | A Tangible Internet | TBD |
+| [WEEK 06](weeks/week_06.md) | Feb 27 & Mar 01 | A Tangible Internet | TBD |
+| [WEEK 07](weeks/week_07.md) | Mar 06 & 08 | Supply Chains  | TBD |
+| [WEEK 08](weeks/week_08.md) | Mar 13 & 15 | **SPRING BREAK**  | None| 
+| [WEEK 09](weeks/week_09.md) | Mar 20 & 22 | Supply Chains  | TBD |
+| [WEEK 10](weeks/week_10.md) | Mar 27 & 29 | Supply Chains  | TBD |
+| [WEEK 11](weeks/week_11.md) | APR 03 & 05 | Mining & Extraction | TBD |
+| [WEEK 12](weeks/week_12.md) | APR 10 & 12 | Mining & Extraction  | TBD |
+| [WEEK 13](weeks/week_13.md) | APR 17 & 19 | Mining & Extraction | TBD |
+| [WEEK 14](weeks/week_14.md) | APR 24 & 26 | Waste & Disposal | TBD |
+| [WEEK 15](weeks/week_15.md) | MAY 01 & 03 | Waste & Disposal | TBD |
+| [WEEK 16](weeks/week_16.md) | May 08 & 10 | Waste & Disposal  | TBD |
+| [FINAL PROJECTS/PAPERS DUE](weeks/week_17.md) | May 15  | **FINAL PROJECTS/PAPERS DUE** |  None |
 
 ## PROJECTS
 
@@ -139,16 +139,16 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 | ASSIGNMENT  |  DUE DATE  | TITLE |
 | :----         |  ----  | ---- |
 | [Five Reading Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 16 | Course Reading Responses |
-| [Project 1](./assignments/assignment_01.md) |  March 2nd | Public Data Mapping |
-| [Project 2](./assignments/assignment_02.md) |  April 12th by 11:59pm | Visualizing a Collection  |
-| [Project 4](./assignments/final-project.md) | May 16 | Final Project/Paper  |
+| [Project 1](./assignments/assignment_01.md) |  March 8th | Public Data Mapping |
+| [Project 2](./assignments/assignment_02.md) |  April 12th | Visualizing a Collection  |
+| [Project 4](./assignments/final-project.md) | May 15 | Final Project/Paper  |
 
 
 ## LATE ASSIGNMENTS
 
 The general policy is that **late assignments will not be reviewed**.
 
-As such, here are my general suggestions for working on projects and assignments (in this class and beyond):
+As such, here are my suggestions for working on projects and assignments (in this class and beyond):
 
 - 1. **Always have something to show**: While developing your projects, always have a "minimum reviewable unit" that speaks to your project concept. Even if your project doesn't technically "work", you should always have something to present.
 - 2. **Submit on time and refine**: Submit what you have on time. If you followed suggestion #1 above, then you'll have material to discuss and explain where you're at and where you're trying to go. You can always refine and update what you have even after the deadline, but if you have nothing to show, then your effort cannot be evaluated and improved.
@@ -247,7 +247,7 @@ http://www.newschool.edu/provost/course-evaluations-student-instructions.pdf
 
 ## Section - A Tangible Internet
 ### Week 1 – Course Introductions and Overview (**ONLINE**)
-#### Monday, January 24th
+#### Monday, January 23th
 
 * Introduction to the course
 * Choose discussion readings
@@ -275,7 +275,7 @@ __ASSIGNED__
 * **RESOURCES**
     * [Map Maker Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)
 
-#### Wednesday, January 26th
+#### Wednesday, January 25th
 * Cartography 101
 * Introduction to web mapping with Javascript (Javascript Basics in Observable)
 
