@@ -17,10 +17,6 @@
     * [Week 14](weeks/week_14.md)
     * [Week 15](weeks/week_15.md) -->
 
-
-
-
-
 * Projects
     * [Art of Noticing](projects/art-of-noticing.md)
     * [Project 1](projects/project_01.md)

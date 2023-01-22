@@ -11,7 +11,7 @@
 * Course Website:
   * [Internet Geographies](https://internet-geographies.netlify.app/)
 * Github Repo:
-  * [Internet Geographies Github Repo](https://github.com/morganmueller/Internet-Geographies)
+  * [Internet Geographies Github Repo](https://github.com/morganmueller/internet-geographies-spring-2023)
 * Course Slack Channel:
   * [Internet Geographies Slack](https://codeatlang.slack.com/archives/C02V71SPA7L)
 * Course Are.na:
