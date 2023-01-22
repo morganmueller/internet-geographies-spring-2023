@@ -18,7 +18,6 @@
 * Resources
     * [Mapping/Data Resources](resources/mapping_and_data.md)
     * [Mapping Projects & Artworks](resources/projects_and_artworks.md)
-    * [Readings & Other Beneifical Works](resources/readings)
 
 <!-- * Technical Exercises
     * [Week 2 exercises](tutorials_guides/exercises/week_02_excercises.md)
