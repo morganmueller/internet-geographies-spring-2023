@@ -20,11 +20,11 @@
     * [Mapping Projects & Artworks](resources/projects_and_artworks.md)
     * [Readings & Other Beneifical Works](resources/readings)
 
-* Technical Exercises
+<!-- * Technical Exercises
     * [Week 2 exercises](tutorials_guides/exercises/week_02_excercises.md)
     * [Week 3 exercises](tutorials_guides/exercises/week_03_excercises.md)
     * [Week 4 Studio](tutorials_guides/exercises/week_04_studio/README.md)
     * [Week 6 Studio](tutorials_guides/exercises/week_06_studio/Kepler_studio.md)
     * [Week 7 Studio](tutorials_guides/exercises/week_07_studio.md)
     * [Week 9 Studio](tutorials_guides/exercises/week_09_studio.md)
-    * [Week 10 Studio](tutorials_guides/exercises/week_10_studio.md)
+    * [Week 10 Studio](tutorials_guides/exercises/week_10_studio.md) -->
