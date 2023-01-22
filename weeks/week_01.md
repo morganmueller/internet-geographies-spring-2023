@@ -7,13 +7,13 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 1 Slides](https://docs.google.com/presentation/d/1hvi92U5LN0t0nWjT-BF9bOYVDusGn-9Gx-YxW8WzagU/edit?usp=sharing)
+* ↳ [Week 1 Slides](https://docs.google.com/presentation/d/1kBtYk-c2hjZKde2b01-sqUKOymjRO4J8EfHSrQsxxEQ/edit?usp=sharing)
 ### In Class Shared Notes
-* ↳ [In Class Notes](https://docs.google.com/document/d/1dxq839nT1Z2mDGHmaRtfZcHJM9UhutEWe7FWej7Q_2g/edit?usp=sharing)
+* ↳ [In Class Notes](https://docs.google.com/document/d/19JmUg_FvfVZAnPbxkeSpydNFzsy_fqjbvc-CYv4XUaE/edit)
 ### Reading Response Google Doc
-* ↳ [Response Document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing)
-### Wednesday's In Class technical walkthrough
-* ↳* [In Class observable walkthrough](observablehq.com/@morganbm123/introduction-to-observable-and-leaflet-js).
+* ↳ [Response Document](https://docs.google.com/document/d/1bxzCl3ThtCbmegrYSj1Lctun7QHKK8tJAIiMKBz1zeQ/edit?usp=sharing)
+<!-- ### Wednesday's In Class technical walkthrough
+* ↳ [In Class observable walkthrough](observablehq.com/@morganbm123/introduction-to-observable-and-leaflet-js). -->
 
 
 ## Monday 
@@ -46,15 +46,14 @@ Add your name under the desired week in the in class shared notes doc.
 
 * Required Readings:
     * [Shannon Mattern, “Infrastructural Tourism,” Places Journal, July 2013](https://placesjournal.org/article/infrastructural-tourism/#footnote_15)
-    * [Jeremy Crampton, John Krygier, "An Introduction to Critical Cartography", July 2010](https://www.are.na/block/14630024)
+    * [Ingrid Burrington, "Networks of New York"](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=6040343)
     * [Adam Rothstein, "How to See Infrastructure: A Guide for Seven Billion Primates", July 2015](https://rhizome.org/editorial/2015/jul/2/how-see-infrastructure-guide-seven-billion-primate/)
-    * [Andrew Blum, "Tubes", 2012, Chapter 1](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
-
 * Optional Readings:
+    * [Jeremy Crampton, John Krygier, "An Introduction to Critical Cartography", July 2010](https://www.are.na/block/14630024)
     * [Surya Mattu & Ingrid Burrington, "The Physical Internet"](http://networks.land/reference/physical/)
     * [Rob Walker, "How to Pay Attention"](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)
     * [Jenny Odell, "How to Do Nothing"](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
-    * [Ingrid Burrington, "Networks of New York"](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=6040343)
+
 
 * Small Assignment:
    * Using this week's readings as a starting point - wander around your city/neighborhood/community
@@ -78,13 +77,13 @@ Add your name under the desired week in the in class shared notes doc.
 * [Data Walking](https://www.datawalking.com/)
 
 ## Small Assignment Submission
-* ↳ [Google Form](https://forms.gle/kPLtT8429YazXGFL7)
+* ↳ [Google Form](https://forms.gle/JgkfJod38i3kpPf16)
 
 ---
 ---
 ---
 ## Wednesday
-
+<!-- 
 > “Maps are creative statements about the world, not merely degraded reflections of it” ― Liben & Downs (1989)
 
 
@@ -126,4 +125,4 @@ Add your name under the desired week in the in class shared notes doc.
 * [Spatial Joins](https://gisgeography.com/spatial-join/)
 * [TileMill](https://tilemill-project.github.io/tilemill/) -- Allows you to design web maps using custom data
 * [CartoCSS](https://cartocss.readthedocs.io/en/latest/) -- Language for Map design, similar to CSS
-* [OpenStreetMap](https://www.openstreetmap.org/)
+* [OpenStreetMap](https://www.openstreetmap.org/) -->
