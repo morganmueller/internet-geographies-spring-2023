@@ -47,7 +47,7 @@ Add your name under the desired week in the in class shared notes doc.
 
 * Required Readings:
     * [Shannon Mattern, “Infrastructural Tourism,” Places Journal, July 2013](https://placesjournal.org/article/infrastructural-tourism/#footnote_15)
-    * [Ingrid Burrington, "Networks of New York"](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=6040343)
+    * [Ingrid Burrington, "Networks of New York"](http://seeingnetworks.in/nyc/)
     * [Adam Rothstein, "How to See Infrastructure: A Guide for Seven Billion Primates", July 2015](https://rhizome.org/editorial/2015/jul/2/how-see-infrastructure-guide-seven-billion-primate/)
 * Optional Readings:
     * [Jeremy Crampton, John Krygier, "An Introduction to Critical Cartography", July 2010](https://www.are.na/block/14630024)
