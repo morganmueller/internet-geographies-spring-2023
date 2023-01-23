@@ -25,6 +25,10 @@
 ### Choosing Reading Disussion Text Groups - 10 minutes
 Add your name under the desired week in the in class shared notes doc.
 
+[Reading Discussion Group Link](https://docs.google.com/document/d/1d5Kb8JhbkFiacYGjqji7o50tJWt6qNGsCsJCJteMim8/edit?usp=sharing)
+
+## In Class Exercise - 10 minutes
+
 ### Introduction to the Tangible Internet - 45 minutes
 * What does cartography have to do with the internet?
 * What is the internet and where is it located?
@@ -35,7 +39,7 @@ Add your name under the desired week in the in class shared notes doc.
     * These barely scratch the surface
 * Relating the internet to us
 
-<s>### In Class Exercise - Time Permissive - 20 minutes</s>
+
 
 
 
