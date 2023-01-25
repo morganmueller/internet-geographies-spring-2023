@@ -88,7 +88,6 @@ Add your name under the desired week in the in class shared notes doc.
 > “Maps are creative statements about the world, not merely degraded reflections of it” ― Liben & Downs (1989)
 
 
-
 ## Schedule
 * Quick Check-in - __5 minutes__
     * How is everyone feeling?
@@ -105,7 +104,7 @@ Add your name under the desired week in the in class shared notes doc.
     * Intro to Programming in Javascript
     
 ## Topics
-* [My introduction to Javascript Guide](.../tutorials_guides/intro-to-javascript.md)
+* [My introduction to Javascript Guide](../tutorials_guides/intro-to-javascript.md)
 * [p5.js editor](https://editor.p5js.org/)
 
 ## Main Learning Resources
