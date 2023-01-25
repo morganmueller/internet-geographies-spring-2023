@@ -104,11 +104,13 @@ Add your name under the desired week in the in class shared notes doc.
     * Intro to Programming in Javascript
     
 ## Topics
+
 * [My introduction to Javascript Guide](../tutorials_guides/intro-to-javascript.md)
 * [p5.js editor](https://editor.p5js.org/)
 
 ## Main Learning Resources
-* [My introduction to Javascript Guide](https://internet-geographies.netlify.app/#/tutorials_guides/intro-to-javascript)
+
+* [My introduction to Javascript Guide](./tutorials_guides/intro-to-javascript.md)
 * [Introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 * [p5.js reference page](https://p5js.org/reference/)
 * [Learn Leaflet.js](https://www.youtube.com/playlist?list=PLDmvslp_VR0xjh7wGMNd_1kk0zUox6Sue)
@@ -116,6 +118,7 @@ Add your name under the desired week in the in class shared notes doc.
 
 
 ## Additional Resources & References
+
 * [Maptime.io - Anatomy of a web map](http://maptime.io/anatomy-of-a-web-map/#0)
 * [Jia Zhang, Asian American Dot Density Map](https://centerforspatialresearch.github.io/asianAmericans/)
 * [ Web Map Projections](https://www.jasondavies.com/maps/transition/)
