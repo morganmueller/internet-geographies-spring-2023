@@ -100,7 +100,6 @@ Add your name under the desired week in the in class shared notes doc.
 * Presentation - __75 minutes__
     * Thinking about Space in relation to 2d screens
     * Into to cartography & Geo
-    * Web Mapping Fundamentals 
     * Intro to Programming in Javascript
     
 ## Topics
