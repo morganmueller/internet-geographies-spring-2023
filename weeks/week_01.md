@@ -84,7 +84,7 @@ Add your name under the desired week in the in class shared notes doc.
 ---
 ---
 ## Wednesday
-<!-- 
+
 > “Maps are creative statements about the world, not merely degraded reflections of it” ― Liben & Downs (1989)
 
 
@@ -97,21 +97,21 @@ Add your name under the desired week in the in class shared notes doc.
 * Additional Course Logistics - __5 minutes__
     * Slack Channel & Aren.a
     * In class shared Notes Document
-* In class exercise (Monday's) - __15 minutes__
-* Presentation - __60 minutes__
-    * Thinking about Space in relation to us 
+* Go over small assignment one - __10 minutes__
+* Presentation - __75 minutes__
+    * Thinking about Space in relation to 2d screens
     * Into to cartography & Geo
     * Web Mapping Fundamentals 
-    * Observable and Leaflet intro
-* Project 1 Assigned & Discussed - __10 minutes__
+    * Intro to Programming in Javascript
     
 ## Topics
-* [Leaflet.js tutorial by Geosandbox](https://joeyklee.github.io/geosandbox/)
-* [Observable](https://observablehq.com/)
-* [Leaflet](https://leafletjs.com/)
+* [My introduction to Javascript Guide](.../tutorials_guides/intro-to-javascript.md)
+* [p5.js editor](https://editor.p5js.org/)
 
 ## Main Learning Resources
-* [Observable Documentation](https://observablehq.com/@observablehq/documentation#threeEssentialCharts)
+* [My introduction to Javascript Guide](https://internet-geographies.netlify.app/#/tutorials_guides/intro-to-javascript)
+* [Introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+* [p5.js reference page](https://p5js.org/reference/)
 * [Learn Leaflet.js](https://www.youtube.com/playlist?list=PLDmvslp_VR0xjh7wGMNd_1kk0zUox6Sue)
 
 
@@ -126,4 +126,6 @@ Add your name under the desired week in the in class shared notes doc.
 * [Spatial Joins](https://gisgeography.com/spatial-join/)
 * [TileMill](https://tilemill-project.github.io/tilemill/) -- Allows you to design web maps using custom data
 * [CartoCSS](https://cartocss.readthedocs.io/en/latest/) -- Language for Map design, similar to CSS
-* [OpenStreetMap](https://www.openstreetmap.org/) -->
+* [OpenStreetMap](https://www.openstreetmap.org/)
+* [Leaflet.js tutorial by Geosandbox](https://joeyklee.github.io/geosandbox/)
+* [Leaflet](https://leafletjs.com/)
