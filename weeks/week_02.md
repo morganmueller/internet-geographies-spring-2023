@@ -2,7 +2,7 @@
 
 > “Why “visit” the Internet? Why contemplate the intercontinental and nano-scale mechanisms through which it operates?” ― Mattern (2013)
 
-> "To be online was to be disembodied, reduced to eyes and fingertips." - Blum (2012)
+> "New York’s network infrastructure is a lot like the city itself: messy, sprawling, and at times near-incomprehensible. However, the city’s tendency toward flux is a strange blessing for the infrastructure sightseer: markings and remnants of the network are almost everywhere, once you know how to look for them." - Burrington (2015)
 
 
 ## This Week's Resources
