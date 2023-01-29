@@ -296,7 +296,7 @@ __ASSIGNED__
     * [Lisa Parks, "Around the Antenna Tree: The politics of Infrastructural Visibility" ](http://www.flowjournal.org/2009/03/around-the-antenna-tree-the-politics-of-infrastructural-visibilitylisa-parks-uc-santa-barbara/)
     * [Shannon Mattern, "Where Code Meets Concrete", Sep 2019](https://urbanomnibus.net/2019/09/where-code-meets-concrete/)
     
-***READING DUE WEDNESDAY**
+* **READING DUE WEDNESDAY**
     * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
 
 * **OPTIONAL READING**
