@@ -35,9 +35,9 @@
     * Situated knowledge in relation to infrastructure
     * Tubes & Internet Infrastructure in and out of NYC
     * 60 Hudson St. Mini Documentary
-*  Introdution to JS continued - __20 minutes__
+*  Introduction to JS continued - __20 minutes__
     * Code Health
-    * Variables, data types, arrays
+    * Variables, data types, conditionals
 * Ending Statements -  __4ish minutes__
     * Wednesday's plan
 
@@ -48,8 +48,7 @@
     * [Shannon Mattern, "Where Code Meets Concrete", Sep 2019](https://urbanomnibus.net/2019/09/where-code-meets-concrete/)
     
 
-* **READING DUE WEDNESDAY**
-    * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
+
 
 * **OPTIONAL READING**
     * [Paul Dourish, "Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet"](https://dourish.com/publications/2015/NotTheInternet.pdf)
@@ -102,6 +101,9 @@
 * ↳ [Practice Exercies](../tutorials_guides/exercises/week_02_excercises.md)
 
 
+
+* **READING FOR IMPLOSION PROJECT**
+    * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
 ### Assigned (**Due Next Wednesday**)
 * Review both [The Modern Javascript Tutorial](https://javascript.info/) and * [Minimal Introduction to Javascript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable) prior to next week's class. Focus on grasping the fundamentals of data types, arrays, objects, conditional, functions, and iterators! Come prepared with questions from the reading.
 
