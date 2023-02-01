@@ -17,6 +17,77 @@
 3. How many characters are in the following string?
 > 'Vision in this technological feast becomes unregulated gluttony; all seems not just mythically about the god trick of seeing everything from nowhere, but to have put the myth into ordinary practice. And like the god trick, this eye fucks the world to make techno-monsters.'
 
+
+4. What is the correct way to declare a new variable that you can change?
+
+- `Using the const keyword`
+- `Using the let keyword`
+- `Using the int keyword`
+
+5. Concatenate the two strings below (__try using a template literal!__)
+    * String 1: "We cannot think of a time that is oceanless"
+    * String 2: "Or of an ocean not littered with wastage"
+
+6. Use the `.length` property to log the number of characters in the following string to the console:
+  
+    *  `'Teaching the world how to code'`
+
+7. Use a string method to capitalize all letters of the following string:
+  * "We cannot think of a time that is oceanless or of an ocean not littered with wastage"
+
+
+8. Use a string method to make all letters of the previous string lowercase.
+
+9. Use the `concat()`string method to concatenate th below two strings together. Use a `;` as a parameter 1.
+- Concatenate Mozilla Reference [linked here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+  ```js
+    let str1 = 'Vision in this technological feast becomes unregulated gluttony';
+    let str2 = 'all seems not just mythically about the god trick of seeing everything from nowhere';
+  ```
+
+9. What will the following code print to the console?
+
+  ```js 
+    let num = 10;
+    num *= 3;
+    console.log(num);
+  ```
+
+10. What will the following code log to the console?
+    ```js
+    let needTacos = true;
+    
+    if (needTacos) {
+        console.log("Finding tacos");
+    } else {
+        console.log("Keep on keeping on!");
+    }
+    ```
+
+11. What will the code block log to the console?
+    ```js
+    let weather = "spring";
+    let clothingChoice = "";
+    
+    if (weather === "spring") {
+      clothingChoice = "Put on rain boots.";
+    } else if (weather === "summer") {
+      clothingChoice = "Make sure to take your sunscreen.";
+    } else if (weather === "fall") {
+      clothingChoice = "Wear a light jacket.";
+    } else if (weather === 'winter') {
+      clothingChoice = "Wear a heavy coat.";
+    } else {
+      console.log('Invalid weather type.');
+    };
+    console.log(clothingChoice);
+    ```
+
+12. Translate this to JavaScript:
+
+  Log “Bear!” to console if `isFurry` is `true` and `weight` is over `100` pounds.
+<!-- 
 4. Create an array of the words in the above string. Name the array `parArray`. 
 
 4. How many words are in the array?
@@ -64,4 +135,4 @@ let person = {
   },
   age: 27
 };
-```
+``` -->

@@ -72,23 +72,22 @@
 
 
 ## Wednesday
-<!-- 
+
 ### Topics
 * Javascript Funadmentals
-* Using Leaflet outside of Observable
 * JS Practice Problem set
 
 ## Schedule
 * Quick Check-in - __5 minutes__
     * Anything from Monday you'd like to discuss more?
     * Clarity on next Monday's discussion lead if needed
-* Introduction to Javascript continued - __50 minutes__
+* Introduction to Javascript continued - __30 minutes__
     * Variables & Data types
-    * Conditionals & Objects
+    * Conditionals Review
     * Arrays & Iterators
-    * Functions
+    * Properties & Methods
 *  In Class Programming Exercises - __30 minutes__
-    * Feel free to break out into groups or work solo
+    * Break into groups of 2
     * Ask questions as they come up!
     * If you want to use the shared notes document to collaborate feel free.
 * Quick Runthrough of Leaflet in the p5.js Web Editor - __10 minutes__
@@ -99,13 +98,14 @@
 
 ### In Class Programming Exercises
 * ↳ [Practice Exercies](../tutorials_guides/exercises/week_02_excercises.md)
-
+* ↳ [Practice Project](../tutorials_guides/exercises/week_02_proj.md)
 
 
 * **READING FOR IMPLOSION PROJECT**
     * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
 ### Assigned (**Due Next Wednesday**)
-* Review both [The Modern Javascript Tutorial](https://javascript.info/) and * [Minimal Introduction to Javascript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable) prior to next week's class. Focus on grasping the fundamentals of data types, arrays, objects, conditional, functions, and iterators! Come prepared with questions from the reading.
+* Review bth [The Modern Javascript Tutorial](https://javascript.info/)  
+prior to next week's class. Focus on grasping the fundamentals of data types, arrays, objects, conditional, functions, and iterators! Come prepared with questions from the reading.
 
 
 ### Additional Resources & References
@@ -113,4 +113,4 @@
 * [Coding train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Codecademy](https://www.codecademy.com/) -- The p5.js course is free! (I was actually part of team that developed it)
 * [The Modern Javascript Tutorial](https://javascript.info/)
-* [Minimal Introduction to Javascript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable)  -->
+* [Minimal Introduction to Javascript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable)  
