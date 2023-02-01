@@ -98,7 +98,8 @@
 
 ### In Class Programming Exercises
 * ↳ [Practice Exercies](../tutorials_guides/exercises/week_02_excercises.md)
-* ↳ [Practice Project](../tutorials_guides/exercises/week_02_proj.md)
+* ↳ [Practice Project 1 (variables & operators)](../tutorials_guides/exercises/week_02_proj.md)
+* ↳ [Practice Project 2 (Conditionals)](../tutorials_guides/exercises/week_02_proj2.md)
 
 
 * **READING FOR IMPLOSION PROJECT**
