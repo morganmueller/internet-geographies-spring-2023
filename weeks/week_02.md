@@ -84,7 +84,7 @@
 * Introduction to Javascript continued - __30 minutes__
     * Variables & Data types
     * Conditionals Review
-    * Arrays & Iterators
+    * Iterators & Assignment Operators
     * Properties & Methods
 *  In Class Programming Exercises - __30 minutes__
     * Break into groups of 2
