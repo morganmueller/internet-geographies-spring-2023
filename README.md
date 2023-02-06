@@ -324,9 +324,8 @@ __ASSIGNED__
 
 ### Week 3 – Digital Frictions
 
-#### Monday, February 7th
+#### Monday, February 6th
 * Reading Discussion
-* Implosion Exercise Continued
 
 __ASSIGNED__
 
@@ -349,8 +348,9 @@ __ASSIGNED__
     * [Trevor Paglen, "The Other Night Sky](https://paglen.studio/2020/05/22/the-other-night-sky/)
 
 
-#### Wednesday, February 9th
+#### Wednesday, February 8th
 * Introduction to Javascript continued (Mapbox & Google Maps API)
+* Implosion Exercise 
 * Overview of publically available data and how to clean data
 * Using publically available datasets for mapping
 * **In Class Activity**
@@ -368,7 +368,7 @@ __ASSIGNED__
 
 #### Monday, February 13th
 * Reading Discussion
-* Implosion Project Group Showcase
+* Implosion Exercise Continued
 
 * Small 'Art of Noticing' assignment check-in
 
