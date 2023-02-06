@@ -40,7 +40,7 @@
 *  Zach Blas, Contra-Internet interview - __20 minutes__ 
     * Artist desribes his work and the larger themes he's dealing with.
 
-* OR Continued work from last week's practice 
+* OR Continued work from last week's practice __30 minutes__ 
 * Project 1 Assigned and overview
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
