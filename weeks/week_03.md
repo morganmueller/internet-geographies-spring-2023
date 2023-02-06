@@ -19,11 +19,10 @@
 ## Monday
 
 ### Topics
-* Physical origins of the internet (at least a couple central locations)
-* ARPANET
-* Piecemeal creation of the modern internet
+* Frictions in the "seamless technoutopian society"
+* Infrastructure visibility
 * Feudal Internet and past, present, and future frictions
-* Internet Communications (Packets & TCP/IP)
+* Traceroutes
 
 
 ## Schedule
@@ -34,9 +33,8 @@
 * Reading Discussion & Presentation - __50 minutes__
     * Digital Frictions (past, present, future)?
     * Internet Histories
-    * Modern consequences of early internet design
     * Community Frictions
-    * TCP/IP & Packets
+    * Traceroutes
 *  Zach Blas, Contra-Internet interview - __20 minutes__ 
     * Artist desribes his work and the larger themes he's dealing with.
 
@@ -77,6 +75,7 @@
 * [Paul Dourish, The city and the Feudal Internet: Examining institutional materialities ](https://vimeo.com/110232068)
 * [American Artist, Black Gooey Universe](https://americanartist.us/works/black-gooey-universe)
 * [Trevor Paglen, "The Other Night Sky](https://paglen.studio/2020/05/22/the-other-night-sky/)
+* [Geotraceroute](https://geotraceroute.com/)
 
 
 <hr>
