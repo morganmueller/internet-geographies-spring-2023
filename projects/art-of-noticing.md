@@ -1,7 +1,7 @@
 # Art of Noticing (**IN CLASS PRESENTATIONS MARCH 22nd**)
 
 ## Submission
-Please Submit your project here: https://forms.gle/zRNoyQz5HWxJ754z9
+Please Submit your project here: https://forms.gle/UztDDMuVEVUEwPWK9
 
 ## Outline
 
@@ -10,7 +10,7 @@ Please Submit your project here: https://forms.gle/zRNoyQz5HWxJ754z9
 ![Art of noticing](../images/noticing2.png "Art of Noticing graphic")
 
 
- This time the goal will be to practice the 'art of noticing,' focusing on the piece of internet infrastructure and creatively document what you notice. This documentation could be in the form of a field guide, audio field recording, journal or any other method you'd like. This does not need to be an intervention as much as it is for you to really spend time noticing and creatively recording what you notice.
+ This time the goal will be to practice the __'art of noticing,'__ focusing on the piece of internet infrastructure and creatively document what you notice. This documentation could be in the form of a field guide, audio field recording, journal or any other method you'd like. This does not need to be an intervention as much as it is for you to really spend time noticing and creatively recording what you notice.
     
 
 
