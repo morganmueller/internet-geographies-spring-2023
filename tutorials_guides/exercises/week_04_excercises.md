@@ -20,14 +20,26 @@ let d = b++; // ?
 
 ```
 
-4. Create a function that reverses the following string `As the Zapatistas might say, let us approach the internet at the speed of dreams`.
+4. Rewrite the following function with arrow functions.
 
-5.  Create a function called `converter()` that will convert from Celsius to Farenheit. 
-    Hint: The general convention to  convert from Ceslisus to Farenheit is to multiply the degrees celsius by 1.8 and add 32.00.
+```js
+function ask(question, yes, no) {
+  if (confirm(question)) yes();
+  else no();
+}
 
-6.  What problem is caused by this code block?
-  ```js
-  for (let i = 10; i > 0; i++) {
-    console.log(i);
-  };
+ask(
+  "Do you agree?",
+  function() { alert("You agreed."); },
+  function() { alert("You canceled the execution."); }
+);
+
+```
+
+5. Create a function that reverses the following string `As the Zapatistas might say, let us approach the internet at the speed of dreams`.
+
+
+6. Return only the even numbers from the following array
+```js
+let onlyEven = [1, 2, 3,  4, 8, 16,  21, 45, 22, -12, 0, 53];
 ```
