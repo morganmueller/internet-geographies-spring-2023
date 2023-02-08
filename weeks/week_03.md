@@ -96,16 +96,12 @@
     * Next Monday's discussion lead
 * Introduction to Javascript continued - __45 minutes__
     * What from last week do we still have questions about?
-    * Deeper dive into booleans
-    * More Conditionals & Objects
-    * More Arrays & functions
-    * Setting up a code editor
+    * Intro to functions and loops!
 *  Studio time - __15 minutes__
-    * Research a few data interesting datasets
-    * Try getting leaflet up on your computer!
+    * Work on week 3 exercises and projects
     * Break into groups of two
     * Ask questions as they come up!
-    * If you want to use the shared notes document to collaborate feel free.
+    * If you finish early, begin researching for project 1.
 * Practice set review (This week and last weeks)- __20 minutes__
 
 * Ending Statements and Art of Noticing Assignment -  __10 minutes__
