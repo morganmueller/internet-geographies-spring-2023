@@ -87,14 +87,13 @@
 ### Topics
 * Last week's problem set review
 * Continued Javascript Fundamentals
-* Using Leaflet outside of Observable
 * Another JS Practice Problem set
+* Begin Implosion project (MAYBE)
 
 ## Schedule
 * Quick Check-in - __5 minutes__
     * Anything from Monday you'd like to discuss more?
     * Next Monday's discussion lead
-* Last week's practice set review - __20 minutes__
 * Introduction to Javascript continued - __45 minutes__
     * What from last week do we still have questions about?
     * Deeper dive into booleans
@@ -107,6 +106,8 @@
     * Break into groups of two
     * Ask questions as they come up!
     * If you want to use the shared notes document to collaborate feel free.
+* Practice set review (This week and last weeks)- __20 minutes__
+
 * Ending Statements and Art of Noticing Assignment -  __10 minutes__
     * Take home questions for Monday
 
@@ -123,10 +124,10 @@
 **READING DUE MONDAY**
     * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
 
-* **SMALL ASSIGNMENT**
+* **SMALL ASSIGNMENT (DUE MARCH 22nd)**
     *  At least once a week for the next four weeks, revisit one of the sites you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). This time the goal will be to practice the 'art of noticing,' focusing on the piece of internet infrastructure and creatively document what you notice. This documentation could be in the form of a field guide, audio field recording, journal or any other method you'd like.
     
-    Some potential things to think about while at the location are how people interact with the piece of internet infrastructure, if at all, what dynamics it brings to the area it's located in, and if other non-human actors interact with it. We will spend a portion of **March 9th's** class discussing each student's documentation.
+    Some potential things to think about while at the location are how people interact with the piece of internet infrastructure, if at all, what dynamics it brings to the area it's located in, and if other non-human actors interact with it. We will spend a portion of **March 22nd's** class discussing each student's documentation.
 
 
 
