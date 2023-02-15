@@ -37,7 +37,6 @@
     * The Cloud 
     * Field Guides 
     * Internet "origins"
-* Impolosion Exercise - __30 minutes__ 
 * Go over last week's technical exercises __20 minutes__ 
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
@@ -63,3 +62,31 @@
 <hr>
 <hr>
 ## Wednesday
+
+### Topics
+* Arrays & Objects
+* Types of Maps in Leaflet
+* Leaflet example maps walkthrough
+* Implosion Project
+* Using external geojson files in Leaflet
+
+## Schedule
+* Quick Check-in - __5 minutes__
+    * Anything from Monday you'd like to discuss more?
+* Last week's practice set review - __10 minutes__
+* Working with Arrays and Objects - __30 minutes__
+* Intro to Leaflet - __10 minutes__
+* Impolosion Exercise - __30 minutes__ 
+* "Undersea Network" chapters assigned - __5 minutes__
+
+
+
+### Exercise Links
+* ↳ [Week 4 Exercises](../tutorials_guides/exercises/week_04_exercises)
+
+
+### Additional Resources & References
+* [Leaflet Examples](../tutorials_guides/leaflet_examples/README.md)
+* ↳ [Maptime Boston](https://maptimeboston.github.io/leaflet-intro/)
+* ↳ [Leaflet sandbox](https://joeyklee.github.io/geosandbox/hello-leaflet.html#section6)
+
