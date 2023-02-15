@@ -109,7 +109,7 @@
 
 
 ### In Class Programming Exercises
-* ↳ [Practice Exercies](../tutorials_guides/exercises/week_03_excercises.md)
+* ↳ [Practice Exercies](../tutorials_guides/exercises/week_03_exercises.md)
 * ↳ [Practice Project](../tutorials_guides/exercises/week_03_proj.md)
 
 
