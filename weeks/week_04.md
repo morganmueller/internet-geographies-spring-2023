@@ -61,6 +61,7 @@
 
 <hr>
 <hr>
+
 ## Wednesday
 
 ### Topics
