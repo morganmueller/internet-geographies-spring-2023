@@ -49,7 +49,7 @@
     abstract network diagrams and very specific reference images and cable maps.
 
 
-    __DUE WEDNESDAY__
+* __DUE WEDNESDAY__
     * Look through the project 1 page and find one or two interesting datasets from the links on the page. Come to class ready to talk about your chosen data sets!
 
 ### Additional Resources & References
