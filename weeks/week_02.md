@@ -12,7 +12,7 @@
 ### In Class Shared Notes
 * ↳ [In Class Notes](https://docs.google.com/document/d/1dxq839nT1Z2mDGHmaRtfZcHJM9UhutEWe7FWej7Q_2g/edit?usp=sharing)
 ### Reading Response Google Doc
-* ↳ [Response Document](https://docs.google.com/document/d/1bxzCl3ThtCbmegrYSj1Lctun7QHKK8tJAIiMKBz1zeQ/edit?usp=sharing)
+* ↳ [Response Document](https://docs.google.com/document/d/1bxzCl3ThtCbmegrYSj1Lctun7QHKK8tJAIiMKBz1zeQ/edit)
 
 ## Monday
 
