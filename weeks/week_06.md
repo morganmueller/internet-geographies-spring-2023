@@ -22,8 +22,10 @@
     * General feelings?
     * Project 1 
     * Art of noticing check in
-* Example Exercises Review - __20 minutes__
+* Example Exercises Review - __10 minutes__
+* Working With Data - __15 minutes__
 * In Class Studio & Project Work- __80 minutes__ 
+    *   * [Monday Studio](../tutorials_guides/exercises/week_06_studio1/README.md)
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 

@@ -31,7 +31,7 @@
     * [Week 3 exercises](tutorials_guides/exercises/week_03_exercises.md)
     * [Week 3 Project](tutorials_guides/exercises/week_03_proj.md)
     * [Week 4 exercises](tutorials_guides/exercises/week_04_exercises.md)
-     * [Week 4 Studio](tutorials_guides/exercises/week_06_studio1/README.md)
+     * [Week 6 Studio](tutorials_guides/exercises/week_06_studio1/README.md)
     <!-- 
     * [Week 6 Studio](tutorials_guides/exercises/week_06_studio/Kepler_studio.md)
     * [Week 7 Studio](tutorials_guides/exercises/week_07_studio.md)
