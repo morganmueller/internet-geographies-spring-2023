@@ -4,7 +4,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 6 Slides]()
+* ↳ [Week 6 Slides](https://docs.google.com/presentation/d/1RvQtj8yl0UrHxuQ63xcHzU8AZxdcslFFBG9l83uodM4/edit?usp=sharing)
 ### In Class Shared Notes
 * ↳ [In Class Notes](https://docs.google.com/document/d/1v2XqOosts9svJJ-VPiQWGzaDlGUvF5M6oRVBcvclF5c/edit?usp=sharing)
 ### Reading Response Google Doc
@@ -24,7 +24,7 @@
     * Art of noticing check in
 * Example Exercises Review - __10 minutes__
 * Working With Data - __15 minutes__
-* In Class Studio & Project Work- __80 minutes__ 
+* In Class Studio & Project Work- __70 minutes__ 
     *   * [Monday Studio](../tutorials_guides/exercises/week_06_studio1/README.md)
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
@@ -60,12 +60,20 @@ __Last week's small assignment is now due this Wednesday__
 * Reading Discussion & Presentation - __20 minutes__
     * Group Leaders 
     * Data Centers 
-*  In Class Studio & Project Work- __80 minutes__ 
+*  In Class Studio & Project Work- __70 minutes__ 
+    * [Monday Studio](../tutorials_guides/exercises/week_06_studio1/README.md)
+
 * Wrap Up -  __5 minutes__
-    * Wednesday's plan
+    * Mondays's plan
 
 
 ### Assigned (**Due Next Monday**)
 
 * **SMALL ASSIGNMENT**
     * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Monday to discuss.
+
+
+
+### Additional Resources & References
+* [Sublime Text Editor](http://www.sublimetext.com/)
+* [VS Code](https://code.visualstudio.com/)
