@@ -77,3 +77,22 @@ __Last week's small assignment is now due this Wednesday__
 ### Additional Resources & References
 * [Sublime Text Editor](http://www.sublimetext.com/)
 * [VS Code](https://code.visualstudio.com/)
+
+
+When exploring a new tool, I find it helpful to try and recreate a visualization or analysis done by other reputable mappers. I've selected some data sets and their accompanying reporting in case you're looking for some inspiration.
+
+* Jeremy Singer Vine, "These Maps Show a Massive Gender Gap in Bicycle-Riding". 
+  * [Article](https://www.buzzfeed.com/jsvine/these-maps-show-a-massive-gender-gap-in-bicycle-riding), 
+  * [NYC Data](https://raw.githubusercontent.com/BuzzFeedNews/2014-06-bikeshare-gender-maps/master/html/data/nyc.geojson), 
+  * [Github Repo](https://github.com/BuzzFeedNews/2014-06-bikeshare-gender-maps), 
+  * [Other City Data](https://github.com/BuzzFeedNews/2014-06-bikeshare-gender-maps/tree/master/html/data)
+* Lam Thuy Vo, "They Played Dominoes Outside Their Apartment For Decades. Then The White People Moved In And Police Started Showing Up.".
+  * [Article](https://www.buzzfeednews.com/article/lamvo/gentrification-complaints-311-new-york)
+  * [Data - complaint counts merged with census tract](https://raw.githubusercontent.com/BuzzFeedNews/2018-06-nyc-311-complaints-and-gentrification/master/output/merged_complaints_final.json)
+  * [Github Repo](https://github.com/BuzzFeedNews/2018-06-nyc-311-complaints-and-gentrification)
+  * [All Data outputs](https://github.com/BuzzFeedNews/2018-06-nyc-311-complaints-and-gentrification/tree/master/output)
+* Hubway Bike Share Data January 2017:
+  * Hubway Count data [Hello Vector Tiles Workshop](https://github.com/joeyklee/hello-vector-tiles):
+    * [Hubway Station Data](https://raw.githubusercontent.com/joeyklee/hello-vector-tiles/master/data/201701-hubway-tripdata-counts.csv)
+    * [Routed Data](https://github.com/joeyklee/hello-vector-tiles/blob/master/data/201701_hubway_routes_all.geojson)
+    * [Hubway Stations](https://github.com/joeyklee/hello-vector-tiles/blob/master/data/hubway_Stations_201606.geojson)
