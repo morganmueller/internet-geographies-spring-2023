@@ -36,7 +36,7 @@
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
-### Assigned (**Due Monday March 21**)
+### Assigned (**Due Monday March 20**)
    
 * **READING**
     * [Allan Sekula, "Fish Story", 2002 2nd edition](https://www.are.na/block/14680524)
@@ -57,7 +57,7 @@
 
 ### Studio Links
 * ↳ [Week 6 Studio](../tutorials_guides/exercises/week_06_studio.md)
-* ↳ [Week 7 Studio](../tutorials_guides/exercises/week_06_studio2/Kepler_studio.md)
+* ↳ [Week 7 Studio (Kepler)](../tutorials_guides/exercises/week_06_studio2/Kepler_studio.md)
 
 ### Additional Resources & References
 * [Ingrid Burrington, After Supply Chain Capitalism](https://points.datasociety.net/after-supply-chain-capitalism-bca0d5ce2ae1)
