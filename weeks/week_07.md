@@ -45,7 +45,7 @@
     * [Laleh Khalili, "Sinews of War and Trade, SOAS, University of London"](https://www.youtube.com/watch?v=xmnwdbW2NIM&t=1439s)
     Related to project 2
     * [Mimi Onuohoa - Eyeo 2018](https://vimeo.com/233011125)
-    
+
 * **OPTIONAL VIEWING**
     * **WATCH**
         * [Allan Sekula, "The Forgotten Space"](https://vimeo.com/ondemand/theforgottenspace/466339682)
@@ -57,6 +57,7 @@
 
 ### Studio Links
 * ↳ [Week 6 Studio](../tutorials_guides/exercises/week_06_studio.md)
+* ↳ [Week 7 Studio](../tutorials_guides/exercises/week_06_studio2/Kepler_studio.md)
 
 ### Additional Resources & References
 * [Ingrid Burrington, After Supply Chain Capitalism](https://points.datasociety.net/after-supply-chain-capitalism-bca0d5ce2ae1)
