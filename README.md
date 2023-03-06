@@ -112,21 +112,21 @@ Prior to each week I will upload slides, code examples, resources and more to th
 
 | GO TO  |  DATE  | SECTION | DISCUSSION LEAD |
 | :----         |  ----  | ---- | ---- |
-| [WEEK 01](weeks/week_01.md) | Jan 23 & 25 | A Tangible Internet | None |
-| [WEEK 02](weeks/week_02.md) | Jan 30 & Feb 01 | A Tangible Internet | None |
-| [WEEK 03](weeks/week_03.md) | Feb 06 & 08 | A Tangible Internet | TBD |
-| [WEEK 04](weeks/week_04.md) | Feb 13 & 15 | A Tangible Internet |  TBD |
-| [WEEK 05](weeks/week_05.md) | <s>Feb 20</s> & 22 | A Tangible Internet | TBD |
-| [WEEK 06](weeks/week_06.md) | Feb 27 & Mar 01 | A Tangible Internet | TBD |
-| [WEEK 07](weeks/week_07.md) | Mar 06 & 08 | Supply Chains  | TBD |
+| [WEEK 01](weeks/week_01.md) | Jan 23 & 25 | A Tangible Internet | NONE |
+| [WEEK 02](weeks/week_02.md) | Jan 30 & Feb 01 | A Tangible Internet | NONE |
+| [WEEK 03](weeks/week_03.md) | Feb 06 & 08 | A Tangible Internet | Maya, Riya |
+| [WEEK 04](weeks/week_04.md) | Feb 13 & 15 | A Tangible Internet | Ian, Daniel |
+| [WEEK 05](weeks/week_05.md) | <s>Feb 20</s> & 22 | A Tangible Internet | Avery, Eli |
+| [WEEK 06](weeks/week_06.md) | Feb 27 & Mar 01 | A Tangible Internet | Eli, Sutton |
+| [WEEK 07](weeks/week_07.md) | Mar 06 & 08 | Supply Chains  | Satoshi, Sutton |
 | [WEEK 08](weeks/week_08.md) | Mar 13 & 15 | **SPRING BREAK**  | None| 
 | [WEEK 09](weeks/week_09.md) | Mar 20 & 22 | Supply Chains  | TBD |
-| [WEEK 10](weeks/week_10.md) | Mar 27 & 29 | Supply Chains  | TBD |
-| [WEEK 11](weeks/week_11.md) | APR 03 & 05 | Mining & Extraction | TBD |
+| [WEEK 10](weeks/week_10.md) | Mar 27 & 29 | Supply Chains  | Satoshi, Maya |
+| [WEEK 11](weeks/week_11.md) | APR 03 & 05 | Mining & Extraction | Pari |
 | [WEEK 12](weeks/week_12.md) | APR 10 & 12 | Mining & Extraction  | TBD |
-| [WEEK 13](weeks/week_13.md) | APR 17 & 19 | Mining & Extraction | TBD |
-| [WEEK 14](weeks/week_14.md) | APR 24 & 26 | Waste & Disposal | TBD |
-| [WEEK 15](weeks/week_15.md) | MAY 01 & 03 | Waste & Disposal | TBD |
+| [WEEK 13](weeks/week_13.md) | APR 17 & 19 | Mining & Extraction | Ian, Pari |
+| [WEEK 14](weeks/week_14.md) | APR 24 & 26 | Waste & Disposal |  Avery, Kai |
+| [WEEK 15](weeks/week_15.md) | MAY 01 & 03 | Waste & Disposal |  Kai  |
 | [WEEK 16](weeks/week_16.md) | May 08 & 10 | Waste & Disposal  | TBD |
 | [FINAL PROJECTS/PAPERS DUE](weeks/week_17.md) | May 15  | **FINAL PROJECTS/PAPERS DUE** |  None |
 
