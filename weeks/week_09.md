@@ -49,10 +49,8 @@
 
 ### Additional Resources & References
 * [Why shipping is central to the very fabric of global capitalism](https://www.youtube.com/watch?v=NrT9i4GS3fg)
-
-### Additional Resources & References
 * [Datawrapper](https://www.datawrapper.de/)
-* [Chloropleth Maps with Datawrappere](https://blog.datawrapper.de/choroplethmaps/)
+* [Chloropleth Maps with Datawrapper](https://blog.datawrapper.de/choroplethmaps/)
 * [More Chloropleth Maps with Datawrapper](https://blog.datawrapper.de/weekly-chart-europegrowth/)
 * [Library of Congress](https://www.loc.gov/)
 * [Hans Hacke](https://www.hanshack.com/)
@@ -60,6 +58,9 @@
 * [Mimi Onuohoa - Eyeo 2018](https://vimeo.com/233011125)
 
 
+
+### FILL IN READING DISCUSSION LINK
+[Reading Discussion Leads Link](https://docs.google.com/document/d/1d5Kb8JhbkFiacYGjqji7o50tJWt6qNGsCsJCJteMim8/edit#heading=h.ivwjwbisj5h0)
 ## Wednesday
 <!-- 
 ### Topics
