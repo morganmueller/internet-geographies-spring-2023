@@ -11,7 +11,7 @@
 ### Slides & Notes 
 * ↳ [Week 7 Slides](https://docs.google.com/presentation/d/15ThbKo96v73q72lwTPUy3pD-H2guO8Fw_T-MbE0y0KY/edit?usp=sharing)
 ### Reading Response Google Doc
-* ↳ [Response Document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit#heading=h.yqipm0jmzm4v)
+* ↳ [Response Document](https://docs.google.com/document/d/1bxzCl3ThtCbmegrYSj1Lctun7QHKK8tJAIiMKBz1zeQ/edit)
 
 ## Monday
 
@@ -66,28 +66,25 @@
 
 
 ## Wednesday
-<!-- 
+
 ### Topics
-* Art of Noticing Presentations
-* Small assignment discussions
-* Datawrapper.de
-* Project 2 Overview
+* Continue Project 1
+* Kepler.gl overview
 
 ## Schedule
 * Quick Check-in - __5 minutes__
     * Spring break is coming!
-* Small Assignment presentations  - __15 minutes__
-* Art of Noticing Presentations - __45 minutes__
-* Datawrapper Presentation - __15 minutes__
+* Project 1 studio  - __50 minutes__
+* Kepler.gl presentation - __40 minutes__
 * Wrapping Up -  __5 minutes__
 
 
 
 ### Additional Resources & References
 * [Datawrapper](https://www.datawrapper.de/)
-* [Chloropleth Maps with Datawrappere](https://blog.datawrapper.de/choroplethmaps/)
+* [Chloropleth Maps with Datawrapper](https://blog.datawrapper.de/choroplethmaps/)
 * [More Chloropleth Maps with Datawrapper](https://blog.datawrapper.de/weekly-chart-europegrowth/)
 * [Library of Congress](https://www.loc.gov/)
 * [Hans Hacke](https://www.hanshack.com/)
 * [Brian House - Eyeo 2018](https://vimeo.com/287093394)
-* [Mimi Onuohoa - Eyeo 2018](https://vimeo.com/233011125) -->
+* [Mimi Onuohoa - Eyeo 2018](https://vimeo.com/233011125)
