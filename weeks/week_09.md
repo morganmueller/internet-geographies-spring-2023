@@ -62,16 +62,16 @@
 ### FILL IN READING DISCUSSION LINK
 [Reading Discussion Leads Link](https://docs.google.com/document/d/1d5Kb8JhbkFiacYGjqji7o50tJWt6qNGsCsJCJteMim8/edit#heading=h.ivwjwbisj5h0)
 ## Wednesday
-<!-- 
+
 ### Topics
+* Art of Noticing Presentations
 * Datawrapper Studio
-* Project 2 working session
 
 ## Schedule
 * Quick Check-in - __5 minutes__
     * Any questions from Monday?
-* Datawrapper Studio - __60 minutes__
-* Project 2 working session - __30 minutes__
+* Art of Noticing Presentations - __60 minutes__
+* Datawrapper Studio - __30 minutes__
 * Wrap up - __5 minutes__
  
 
@@ -79,4 +79,4 @@
 ### Studio Links
 * ↳ [Week 9 Studio](../tutorials_guides/exercises/week_09_studio.md)
 
-### Additional Resources & References -->
+### Additional Resources & References
