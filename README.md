@@ -139,8 +139,8 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 | ASSIGNMENT  |  DUE DATE  | TITLE |
 | :----         |  ----  | ---- |
 | [Five Reading Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 15 | Course Reading Responses |
-| [Project 1](./assignments/assignment_01.md) |  March 8th | Public Data Mapping |
-| [Project 2](./assignments/assignment_02.md) |  April 12th | Visualizing a Collection  |
+| [Project 1](./assignments/assignment_01.md) |  March 27th | Public Data Mapping |
+| [Project 2](./assignments/assignment_02.md) |  April 19th | Visualizing a Collection  |
 | [Project 4](./assignments/final-project.md) | May 15 | Final Project/Paper  |
 
 
@@ -317,7 +317,7 @@ __ASSIGNED__
 
 __ASSIGNED__
 
-* Project 1 (Public Data Mapping), **Due March 8th**
+* Project 1 (Public Data Mapping), **Due March 27th**
 * Take home Implosion Project
 
 ## Section - A Tangible Internet
@@ -494,13 +494,12 @@ __ASSIGNED__
 
 
 #### Wednesday, March 8th
-**PROJECT 1 DUE**
-* Project Presentations
+In Class Studio
 
 
 __ASSIGNED__
 
-* Project 2 (Visualizing a Collection), **Due April 12th**
+* Project 2 (Visualizing a Collection), **Due April 19th**
 
 
 ## SPRING BREAK
@@ -542,9 +541,9 @@ __ASSIGNED__
 ### Week 10 - Politics of Production
 
 #### Monday, March 27th
-* Reading Discussion
-* In Class group project
 
+**PROJECT 1 DUE**
+* Project Presentations
 __ASSIGNED__
 
 * **READING**
@@ -559,6 +558,8 @@ __ASSIGNED__
     * [https://publiclab.org/](https://publiclab.org/)
 
 #### Wednesday, March 29th
+* Reading Discussion
+* In Class group project
 * Remote Sensing & GIS Techniques
 * Using Javascript to work with landsat bands 
 * Combining Landsat bands for Remote Sensing
@@ -603,8 +604,7 @@ __ASSIGNED__
     * [Julie Michelle Klinger, "Rare Earth Frontiers", 2017](https://www.are.na/block/7639482)
 
 #### Wednesday, April 12th
-* **PROJECT 2 DUE**
-* Project 2 Presentations and critique
+In Class Studio
 
 
 ## Section - Mining & Extraction
@@ -631,7 +631,8 @@ __ASSIGNED__
 [Reassembling Rubbish Project](https://scalar.usc.edu/works/reassembling-rubbish/index)
 
 #### Wednesday, April 19th
-
+* **PROJECT 2 DUE**
+* Project 2 Presentations and critique
 * Advanced Mapping techniques with D3.js and Keppler.gl
     * Creating Custom tiles
     * Working with Mapbox GLSL

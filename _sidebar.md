@@ -10,7 +10,7 @@
     * [Week 7](weeks/week_07.md)
     * [Week 8](weeks/week_08.md)
     * [Week 9](weeks/week_09.md)
-
+    * [Week 10](weeks/week_10.md)
 
 * Projects
     * [Art of Noticing](projects/art-of-noticing.md)
@@ -38,7 +38,6 @@
     * [Week 6 Studio](tutorials_guides/exercises/week_06_studio1/README.md)
     * [Week 7 Studio](tutorials_guides/exercises/week_06_studio2/Kepler_studio.md)
     * [Week 9 Studio](tutorials_guides/exercises/week_09_studio.md)
-
     <!-- 
     * [Week 6 Studio](tutorials_guides/exercises/week_06_studio/Kepler_studio.md)
     * [Week 7 Studio](tutorials_guides/exercises/week_07_studio.md)
