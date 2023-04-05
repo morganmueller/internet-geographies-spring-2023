@@ -46,11 +46,12 @@ __ASSIGNED__
 * [Light Industry: Toxic Waste and Pastoral Capitalism](https://www.e-flux.com/journal/74/59781/light-industry-toxic-waste-and-pastoral-capitalism/)
 * [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)
 
-<!-- 
+
 ## Wednesday
 
 ### Topics
-* Final Project Proposals
+* In class discussion
+* Small Assignment
 * In Class Studio
 * Francis Tseng Lecture
 
@@ -61,4 +62,4 @@ __ASSIGNED__
     * 4 or 5 students will present on their work
 * Francis Tseng: Inside Out __20 minutes__
 * In Class Studio __50 minutes__
-* Wrap Up -  __5 minutes__ -->
+* Wrap Up -  __5 minutes__
