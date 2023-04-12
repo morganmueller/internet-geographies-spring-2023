@@ -52,7 +52,7 @@ __ASSIGNED__
 * Quick Check-in - __5 minutes__
     * Quick Check-in
 * Monday's video - __10 minutes__
-Project 2 work - __60 minutes__
+* Project 2 work - __60 minutes__
     
 * Wrap Up -  __5 minutes__
     * Monday's plan
