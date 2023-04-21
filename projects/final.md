@@ -25,7 +25,7 @@ This research project is worth 15% of your final grade, and is due before class 
 
 ## PROPOSAL
 ### This Proposal is required for both project based finals and for paper based finals
-You’ll need to submit a 600-word (max., or otherwise substantial) proposal for this project, via the [Google Forms Submission Form](). 
+You’ll need to submit a 600-word (max., or otherwise substantial) proposal for this project, via the [Google Forms Submission Form](https://forms.gle/hme64HucdQacgcFN9). 
 
 This proposal should include:
 
