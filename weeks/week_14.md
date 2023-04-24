@@ -6,7 +6,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 14 Slides](https://docs.google.com/presentation/d/1aQMwefHxvbJfpUUwm10tbdCPvC_55VHGg-Yqbv0LwbM/edit?usp=sharing)
+* ↳ [Week 14 Slides](https://docs.google.com/presentation/d/1qJqneLpQNxd_9lpsUOOBIBI2TheFzgyo6Xpohg_pZSE/edit?usp=sharing)
 ### In Class Shared Notes
 * ↳ [In Class Notes](https://docs.google.com/document/d/1v2XqOosts9svJJ-VPiQWGzaDlGUvF5M6oRVBcvclF5c/edit?usp=sharing)
 ### Reading Response Google Doc
