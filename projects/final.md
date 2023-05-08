@@ -6,7 +6,7 @@
 
 
 ## SUBMITTION LINK: 
-[Link]()
+[Link](https://forms.gle/R5GkVzTTMJe36BmU7)
 
 ## COURSE PROJECT
 
@@ -82,7 +82,7 @@ Please do not email me five separate files or five separate links, or hand me fi
 
 You’ll submit your project **before the start of the final class on May 16**, and during that class each student will deliver a presentation/documentation of their work. 
 
-__SUBMITTION LINK__: [Link]()
+__SUBMITTION LINK__: [Link](https://forms.gle/R5GkVzTTMJe36BmU7)
 
 ## FAQ
 
