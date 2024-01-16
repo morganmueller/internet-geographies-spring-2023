@@ -1,6 +1,6 @@
 # Internet Geographies
 
-### **Eugene Lang College of Liberal Arts <br> Code as Liberal Art, Spring 2024**
+### **Eugene Lang College of Liberal Arts <br> Code as Liberal Art, Spring 2023**
 
 [**Link to the course listing**<br> **Category**: 4 Credits, Elective<br>
 <br>](https://courses.newschool.edu/courses/LCOD2123/)
